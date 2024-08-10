@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## About me:
+
+* A CS student，major in Cyber Security.
+* Want/trying to be a Game Developer.
+* Try to code everyday.
+
 <!--
 **scmyt/scmyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
